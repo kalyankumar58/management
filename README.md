@@ -1,2 +1,0 @@
-# vidya
-just another repository
